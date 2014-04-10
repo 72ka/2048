@@ -28,7 +28,7 @@ MainAssistant.prototype.handleCommand = function(event) {
       switch (event.command) {
 		 
 		case 'help':
-			this.openUrlInBrowser("http://aladinhelp.androworks.org/");
+			//reserved
 		break;
 		case 'about':
 			this.controller.stageController.pushScene({name: "about", disableSceneScroller:'false'});
