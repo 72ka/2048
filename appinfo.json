@@ -1,0 +1,11 @@
+{
+	"id": "cz.72ka.2048",
+	"version": "0.0.2",
+	"vendor": "72ka",
+	"type": "web",
+	"main": "index.html",
+	"title": "2048",
+	"icon": "icon.png",
+	"splashicon": "icon_big.png",
+	"uiRevision": "2"
+}
